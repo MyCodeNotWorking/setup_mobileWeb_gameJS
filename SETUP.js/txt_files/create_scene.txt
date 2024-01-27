@@ -1,0 +1,12 @@
+//import every game_object
+
+//import every ui_object
+
+class Scene {
+    constructor() {
+        this.game_objects = []
+        this.ui_objects = []
+    }
+}
+var scene = new Scene
+export default scene

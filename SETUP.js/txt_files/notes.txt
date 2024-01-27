@@ -1,0 +1,6 @@
+we need to create a variable for every scene so we dont have to 
+always create a new one with new
+
+why is start_butto curved, photos
+image loading //now work on the image loading
+

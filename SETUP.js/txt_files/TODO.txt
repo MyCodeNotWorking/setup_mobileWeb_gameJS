@@ -1,0 +1,1 @@
+this is the first stayable version. now add score
